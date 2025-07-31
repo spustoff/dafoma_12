@@ -1,0 +1,32 @@
+{
+  "source": "/Users/slava/Desktop/dafoma_12/dafoma_12/Views/OnboardingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Start Game",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skip",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 87
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,104 @@
+{
+  "source": "/Users/slava/Desktop/dafoma_12/dafoma_12/Views/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable sound effects during gameplay",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sound Effects",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difficulty",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Statistics",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kangwon Game Color",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version 1.0.0",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "A fast-paced color matching game that tests your reflexes and color recognition skills.",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 162
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12-master.dia",
+    "emit-module-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12-master-emit-module.dia",
+    "swift-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12-master.swiftdeps"
+  },
+  "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/slava/Desktop/dafoma_12/dafoma_12/Models/GameModel.swift" : {
+    "const-values" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameModel.swiftconstvalues",
+    "dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameModel.d",
+    "diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameModel.dia",
+    "index-unit-output-path" : "/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameModel.o",
+    "llvm-bc" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameModel.bc",
+    "object" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameModel.o",
+    "swift-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameModel.swiftdeps",
+    "swiftmodule" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameModel~partial.swiftmodule"
+  },
+  "/Users/slava/Desktop/dafoma_12/dafoma_12/Utilities/ColorScheme.swift" : {
+    "const-values" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/ColorScheme.swiftconstvalues",
+    "dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/ColorScheme.d",
+    "diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/ColorScheme.dia",
+    "index-unit-output-path" : "/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/ColorScheme.o",
+    "llvm-bc" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/ColorScheme.bc",
+    "object" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/ColorScheme.o",
+    "swift-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/ColorScheme.swiftdeps",
+    "swiftmodule" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/ColorScheme~partial.swiftmodule"
+  },
+  "/Users/slava/Desktop/dafoma_12/dafoma_12/Views/GameView.swift" : {
+    "const-values" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameView.swiftconstvalues",
+    "dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameView.d",
+    "diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameView.dia",
+    "index-unit-output-path" : "/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameView.o",
+    "llvm-bc" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameView.bc",
+    "object" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameView.o",
+    "swift-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameView.swiftdeps",
+    "swiftmodule" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/GameView~partial.swiftmodule"
+  },
+  "/Users/slava/Desktop/dafoma_12/dafoma_12/Views/OnboardingView.swift" : {
+    "const-values" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/slava/Desktop/dafoma_12/dafoma_12/Views/SettingsView.swift" : {
+    "const-values" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/slava/Desktop/dafoma_12/dafoma_12/dafoma_12App.swift" : {
+    "const-values" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12App.swiftconstvalues",
+    "dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12App.d",
+    "diagnostics" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12App.dia",
+    "index-unit-output-path" : "/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12App.o",
+    "llvm-bc" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12App.bc",
+    "object" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12App.o",
+    "swift-dependencies" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12App.swiftdeps",
+    "swiftmodule" : "/Users/slava/Desktop/dafoma_12/DerivedData/Build/Intermediates.noindex/dafoma_12.build/Debug-iphonesimulator/dafoma_12.build/Objects-normal/arm64/dafoma_12App~partial.swiftmodule"
+  }
+}

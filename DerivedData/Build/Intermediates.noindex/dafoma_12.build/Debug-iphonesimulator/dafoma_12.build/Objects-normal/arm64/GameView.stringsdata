@@ -1,0 +1,160 @@
+{
+  "source": "/Users/slava/Desktop/dafoma_12/dafoma_12/Views/GameView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Score: %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Best: %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Level %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kangwon Game Color",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Match colors as fast as you can!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difficulty: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Game",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pause",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "Find this color:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "Streak: %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Game Paused",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resume",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 198
+        }
+      },
+      {
+        "comment": "",
+        "key": "New High Score!",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "Game Over",
+        "location": {
+          "startingColumn": 89,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "Score: %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 253
+        }
+      },
+      {
+        "comment": "",
+        "key": "Level Reached: %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 257
+        }
+      },
+      {
+        "comment": "",
+        "key": "Best Streak: %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 262
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play Again",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Main Menu",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 277
+        }
+      }
+    ]
+  },
+  "version": 1
+}
